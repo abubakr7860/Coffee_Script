@@ -26,7 +26,7 @@ class Menu:
             MenuItem(name="cappuccino", water=250, milk=50, coffee=24, sugar=0, chocolate=0,gas=0 ,cost=350),
             MenuItem(name="hot tea",water=220, milk=50, sugar=60, gas=100, coffee=0, chocolate=0 ,cost=300),
             MenuItem(name="shake",water=100, milk=100, sugar=30, chocolate=0, coffee=0, gas=0 ,cost=200),
-            MenuItem(name="orio shake",water=50, milk=100, sugar=80, chocolate=200, coffee=0, gas=0 ,cost=499),
+            MenuItem(name="Orio shake",water=50, milk=100, sugar=80, chocolate=200, coffee=0, gas=0 ,cost=499),
             MenuItem(name="milkshake",water=60, milk=150, sugar=100, chocolate=0, gas=0, coffee=0, cost=300),
             MenuItem(name="Shake",water=100, milk=150, sugar=10, chocolate=0, gas=0, coffee=0 ,cost=399)
         ]
